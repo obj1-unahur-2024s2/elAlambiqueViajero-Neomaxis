@@ -1,4 +1,4 @@
-import alambique.*
+import luke.*
 
 describe "group of tests" {
 
